@@ -11,6 +11,9 @@
     "dependencies": {
         "@ton/core": "~0"
     },
+    "overrides": {
+        "minimatch": ">=9.0.5"
+    },
     "devDependencies": {
         "@ton/blueprint": ">=0.40.0",
         "@ton/sandbox": ">=0.37.0",
