@@ -1,4 +1,4 @@
-# sc_trader
+# Agent Wallet
 
 ## Project structure
 
